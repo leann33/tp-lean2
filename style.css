@@ -46,7 +46,7 @@ main {
     /* width: 80%; */
     margin: 0 auto; /* esto centra divs que tengan ancho definido */
     text-align: center;
-    
+    font-size: 10px;
 }
 
 footer {
